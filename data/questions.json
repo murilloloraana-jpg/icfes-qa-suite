@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "subject": "Math",
+    "text": "If a rectangle has a length of 8 cm and a width of 5 cm, what is its area?",
+    "options": ["30 cm²", "40 cm²", "45 cm²", "13 cm²"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "subject": "Math",
+    "text": "What is the value of x in the equation 3x + 7 = 22?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswerIndex": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 3,
+    "subject": "Spanish",
+    "text": "¿Cuál de las siguientes palabras es un sustantivo abstracto?",
+    "options": ["Mesa", "Libertad", "Árbol", "Perro"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "subject": "Science",
+    "text": "Which organelle is known as the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Vacuole"],
+    "correctAnswerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She don't like coffee.",
+      "She doesn't likes coffee.",
+      "She doesn't like coffee.",
+      "She not like coffee."
+    ],
+    "correctAnswerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 6,
+    "subject": "Social Studies",
+    "text": "Which document declared Colombia's independence from Spain?",
+    "options": [
+      "The Constitution of 1886",
+      "The Acta de Independencia of 1810",
+      "The Treaty of Cartagena",
+      "The Plan de Iguala"
+    ],
+    "correctAnswerIndex": 1,
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "subject": "Math",
+    "text": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "correctAnswerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "subject": "Science",
+    "text": "What is the chemical symbol for water?",
+    "options": ["HO", "H2O", "H2O2", "OH"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 9,
+    "subject": "Science",
+    "text": "What is the chemical symbol for water?",
+    "options": ["HO", "H2O", "H2O2", "OH"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "subject": "Geography",
+    "text": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "correctAnswerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 11,
+    "subject": "Math",
+    "text": "",
+    "options": ["A", "B", "C"],
+    "correctAnswerIndex": 0,
+    "difficulty": "medium"
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "text": "Which word is an adverb?",
+    "options": ["Quick", "Quickly", "Quickly", "Run"],
+    "correctAnswerIndex": 1,
+    "difficulty": "hard"
+  },
+  {
+    "id": 13,
+    "subject": "Math",
+    "text": "What is 15% of 200?",
+    "options": ["20", "25", "30", "35"],
+    "correctAnswerIndex": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": 14,
+    "subject": "Spanish",
+    "text": "¿Qué tipo de oración es 'El cielo es azul'?",
+    "options": ["Imperativa", "Interrogativa", "Declarativa", "Exclamativa"],
+    "correctAnswerIndex": 2,
+    "difficulty": "easy"
+  },
+  {
+    "id": 15,
+    "subject": "Science",
+    "text": "How many planets are in the solar system?",
+    "options": ["7", "8", "9", "10"],
+    "correctAnswerIndex": 1,
+    "difficulty": "easy"
+  }
+]
